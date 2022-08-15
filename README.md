@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/111254466/184560998-daa8fabf-9806-48a1-bf08-9662493be0cd.png)
+
 # zphisher
 Any actions and or activities related to Zphisher is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
@@ -9,7 +11,6 @@ It only demonstrates "how phishing works". You shall not misuse the information 
 
 Features
 Latest and updated login pages.
-Beginners friendly
 Multiple tunneling options
 Localhost
 Ngrok
